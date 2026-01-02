@@ -14,7 +14,7 @@ public class LeadersInArray {
     */
 
     // Method to find leaders in the array
-    static ArrayList getLeaders(int [] arr) {
+    static ArrayList<Integer> getLeaders(int [] arr) {
 
         ArrayList<Integer> res = new ArrayList<>();
 
